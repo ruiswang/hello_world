@@ -1,2 +1,2 @@
 # hello_world
-give it a try 
+hello, this is Ruisi Wang 
